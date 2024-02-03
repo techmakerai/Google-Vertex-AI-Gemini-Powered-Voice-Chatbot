@@ -10,7 +10,7 @@ Please watch this YouTube video tutorial to learn more about this code:
 You will need to install the following packages on your computer to run this code:
 
 ```console
-pip install -q -U google-generativeai    
+pip install --upgrade google-cloud-aiplatform   
 pip install speechrecognition openai pyttsx3 pyaudio pygame
 ```
 If you have Python 3.12 or newer, also install the "setuptools" package,    
