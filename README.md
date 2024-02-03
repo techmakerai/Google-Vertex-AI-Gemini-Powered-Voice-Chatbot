@@ -18,3 +18,5 @@ If you have Python 3.12 or newer, also install the "setuptools" package,
 ```console
 pip install setuptools
 ```
+You also need to have authenticated Vertex AI SDK on your computer, see instructions here, 
+https://cloud.google.com/vertex-ai/docs/generative-ai/multimodal/sdk-for-gemini/gemini-sdk-overview
